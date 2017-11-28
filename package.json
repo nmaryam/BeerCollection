@@ -1,0 +1,23 @@
+{
+  "name": "BeerCollection",
+  "version": "1.0.0",
+  "description": "Beer Collection API Test",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js"
+  },
+  "keywords": [
+    "Api",
+    "Development",
+    "Framework"
+  ],
+  "author": "{name : Maryam Naveed , designation: Software engineer}",
+  "license": "ISC",
+  "devDependencies": {
+    "auto-loader": "^0.2.0",
+    "body-parser": "^1.17.2",
+    "compression": "^1.6.2",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.8"
+  }
+}
